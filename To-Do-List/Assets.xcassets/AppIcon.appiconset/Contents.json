@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "DALL·E 2024-01-02 19.17.08 - A sleek and modern app icon design for a to-do list application. The icon should feature a checklist or a notepad symbol, with a check mark. The color.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
