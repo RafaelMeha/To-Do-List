@@ -1,4 +1,4 @@
-![tracker-2](https://github.com/RafaelMeha/To-Do-List/assets/97791234/c0e1f661-fb50-411f-96c3-9b9ffaed683f)# To-Do-List
+# To-Do-List
 
 ## Description
 This SwiftUI To-Do List App is a simple and effective productivity tool designed for iOS. It helps users manage their daily tasks with ease. The app allows adding, editing, and deleting tasks, offering a straightforward approach to task management. Its clean and intuitive user interface enhances the user experience, making task handling both efficient and enjoyable.
