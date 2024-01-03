@@ -3,9 +3,6 @@
 ## Description
 This SwiftUI To-Do List App is a simple and effective productivity tool designed for iOS. It helps users manage their daily tasks with ease. The app allows adding, editing, and deleting tasks, offering a straightforward approach to task management. Its clean and intuitive user interface enhances the user experience, making task handling both efficient and enjoyable.
 
-##Screenshots
-![Screenshot of the theme](todo.jpg)![Screenshot of the theme](todo-2.jpg)![Screenshot of the theme](todo-3.jpg)
-
 ## Features
 - Add Tasks: Easily add new tasks to your to-do list.
 - Delete Tasks: Swipe to remove tasks that are completed or no longer needed.
@@ -14,6 +11,9 @@ This SwiftUI To-Do List App is a simple and effective productivity tool designed
 ## Usage
 - Adding a Task: Enter the task in the text field and tap the "Add" button.
 - Deleting a Task: Swipe left on a task and tap the delete button to remove it.
+- 
+## Screenshots
+![Screenshot of the theme](todo.jpg)![Screenshot of the theme](todo-2.jpg)![Screenshot of the theme](todo-3.jpg)
 
 ## Installation
 Clone the repository to your local machine:
